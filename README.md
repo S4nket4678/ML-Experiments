@@ -1,6 +1,6 @@
 # ML-Experiments
 
-# Logistic Regression – Binary Classification
+# 4.Logistic Regression – Binary Classification
 
 ## Experiment
 Implement Logistic Regression to predict whether a student will pass or fail based on:
