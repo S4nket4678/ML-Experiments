@@ -28,6 +28,4 @@ The experiment displays:
 
 ## Output Image
 
-Add the screenshot of your program output here:
-
-![Logistic Regression Output](output.png)
+![Logistic Regression Output](Predicted_output_For_LR.png)
